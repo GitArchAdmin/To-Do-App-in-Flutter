@@ -1,6 +1,6 @@
-# todolist
+# todoAPP
 
-A new Flutter project.
+My first freelance project. I wrote the project in dart using the Flutter framework
 
 ## Getting Started
 
