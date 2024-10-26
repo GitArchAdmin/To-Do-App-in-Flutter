@@ -4,13 +4,8 @@ My first freelance project. I wrote the project in dart using the Flutter framew
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this program, the client notes whether he has read the prayer on a certain day since 2010, and the program also has a convenient button that marks all the boxes at once. 
+You can find it by clicking on the floating button with the menu icon. After clicking, several buttons pop up, 
+among which there are buttons that allow you to easily switch to the next day or the previous day by clicking on another button, 
+and you can see another button that allows Clint to freely change the Date in the application. With each state change, 
+that is, when each tick is checked, the program immediately saves the data to a file, which allows you not to be distracted from the goal.
